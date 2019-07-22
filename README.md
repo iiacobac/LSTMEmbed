@@ -33,13 +33,13 @@ Main paper to be cited
 
 For more information, bug reports, fixes, please contact:  
 
-Ignacio Iacobacci  
-Department of Computer Science  
-Viale Regina Elena 295b  
-Sapienza University of Rome  
-Rome, Italy  
-iacobac[at]gmail[dot]com  
+Ignacio Iacobacci   
+iiacobac[at]gmail[dot]com  
 http://iiacobac.wordpress.com/  
+
+Roberto Navigli
+navigli[at]di[dot]uniroma1[dot]it
+http://wwwusers.di.uniroma1.it/~navigli/
 
 ## License
 
