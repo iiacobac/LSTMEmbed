@@ -5,7 +5,7 @@ https://github.com/iiacobac/LSTMEmbed
 
 ## Setup
 
-Download a word-based embeddings file like from [wor2vec](https://code.google.com/archive/p/word2vec/) or [Glove](https://nlp.stanford.edu/projects/glove/) or a sense-based file like from [SensEmbed](http://lcl.uniroma1.it/sensembed/), and place it in data/
+Download a word-based embeddings file like from [wor2vec](https://code.google.com/archive/p/word2vec/) or [Glove](https://nlp.stanford.edu/projects/glove/) or a sense-based file like from [SensEmbed](https://iiacobac.wixsite.com/sensembed), and place it in data/
 
 
 ## Training
