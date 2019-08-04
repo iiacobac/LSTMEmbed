@@ -21,10 +21,17 @@ python train_word_embeddings.sh
 
 Main paper to be cited
 
-	@InProceedings{iiacobac-evaluation:2016:,
-	  author    = {I. Iacobacci and R. Navigli.},
-	  title     = {Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories},
-	  year      = {ACL 2019},
+	@inproceedings{iacobacci-navigli-2019-lstmembed,
+    		title = "{LSTME}mbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long 			   Short-Term Memories",
+    		author = "Iacobacci, Ignacio and Navigli, Roberto",
+   		booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    		month = jul,
+    		year = "2019",
+    		address = "Florence, Italy",
+    		publisher = "Association for Computational Linguistics",
+    		url = "https://www.aclweb.org/anthology/P19-1165",
+    		pages = "1685--1695",
+    		abstract = "While word embeddings are now a de facto standard representation of words in most NLP tasks, recently 			  the attention has been shifting towards vector representations which capture the different meanings, i.e., 			     senses, of words. In this paper we explore the capabilities of a bidirectional LSTM model to learn 			      	representations of word senses from semantically annotated corpora. We show that the utilization of an 				architecture that is aware of word order, like an LSTM, enables us to create better representations. We 			assess our proposed model on various standard benchmarks for evaluating semantic representations, reaching 			   state-of-the-art performance on the SemEval-2014 word-to-sense similarity task. We release the code and the 			       resulting word and sense embeddings at http://lcl.uniroma1.it/LSTMEmbed.",
 	}
 
 ============================================
