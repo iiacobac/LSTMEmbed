@@ -1,5 +1,5 @@
 # LSTMEmbed
-Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories
+[Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories](https://www.aclweb.org/anthology/P19-1165)
 
 https://github.com/iiacobac/LSTMEmbed
 
@@ -16,6 +16,10 @@ python train_word_embeddings.sh
 
    Python 2.7
    Keras 2
+   
+## Trained Word and Sense Embeddings
+
+Follow this [link](http://bit.ly/2Q7va7O)
 
 ## Reference
 
