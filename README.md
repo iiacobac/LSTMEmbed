@@ -19,7 +19,7 @@ python train_word_embeddings.sh
    
 ## Trained Word and Sense Embeddings
 
-Follow this [link](http://bit.ly/2Q7va7O)
+Follow this [link](https://drive.google.com/open?id=1vjhWpR-VIxNj_9ED_bH6LtwxDs2CY8XG)
 
 ## Reference
 
