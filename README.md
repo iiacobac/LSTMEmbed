@@ -48,8 +48,8 @@ Ignacio Iacobacci
 iiacobac[at]gmail[dot]com  
 http://iiacobac.wordpress.com/  
 
-Roberto Navigli
-navigli[at]di[dot]uniroma1[dot]it
+Roberto Navigli   
+navigli[at]di[dot]uniroma1[dot]it   
 http://wwwusers.di.uniroma1.it/~navigli/
 
 ## License
